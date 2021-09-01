@@ -25,11 +25,14 @@ title: 自定义服务器
 **\*请自行确保安装了最新版游戏**
 
 1. 打开网页：https://impostor.github.io/Impostor/
-2. 你会看到：![image](https://user-images.githubusercontent.com/2265048/131607213-1e23a77a-45c8-402b-9deb-5742fe40e539.png)
-3. 选择你使用的平台：![image](https://user-images.githubusercontent.com/2265048/131607137-6e14716e-4426-465b-bc2a-656de3eee813.png)
-4. 在上方文本框粘贴`amongus.onotera.com`（其他东西都不要动）：![image](https://user-images.githubusercontent.com/2265048/131607250-3e5c107f-ae16-48f3-a9dd-b082cd412016.png)
-5. 点击蓝色按钮，游戏将自动打开
-6. 点击多人游戏，随便创建一个房间（成功后直接退出）
+2. 你会看到：    
+    ![image](https://user-images.githubusercontent.com/2265048/131607213-1e23a77a-45c8-402b-9deb-5742fe40e539.png)
+3. 选择你使用的平台：    
+    ![image](https://user-images.githubusercontent.com/2265048/131607137-6e14716e-4426-465b-bc2a-656de3eee813.png)
+4. 在上方文本框粘贴`amongus.onotera.com`（其他东西都不要动）：    
+    ![image](https://user-images.githubusercontent.com/2265048/131607250-3e5c107f-ae16-48f3-a9dd-b082cd412016.png)
+6. 点击蓝色按钮，游戏将自动打开
+7. 点击多人游戏，随便创建一个房间（成功后直接退出）
 
 ### 使用了多职业mod
 
