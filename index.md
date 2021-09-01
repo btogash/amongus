@@ -12,7 +12,7 @@ title: 自定义服务器
 
 ### 在windows上使用标准客户端（例如steam下载后，没有安装过mod）
 1. 至少启动一次游戏
-2. 点击下载这个文件：
+2. 点击下载这个文件（右键，另存为）：https://github.com/onotera-com/amongus/raw/gh-pages/regionInfo.json
 3. 按下键盘`win`+`R`
 4. 在弹出窗口中粘贴：`%APPDATA%\..\LocalLow\Innersloth\Among Us` 然后回车
 5. 将下载好的文件移动到弹出的文件夹中，覆盖原有文件（此文件自动生成，没必要备份）
