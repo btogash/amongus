@@ -16,8 +16,10 @@ title: 自定义服务器
 3. 按下键盘`win`+`R`
 4. 在弹出窗口中粘贴：`%APPDATA%\..\LocalLow\Innersloth\Among Us` 然后回车
 5. 将下载好的文件移动到弹出的文件夹中，覆盖原有文件（此文件自动生成，没必要备份）
-6. 开始游戏，选择在线![image](https://user-images.githubusercontent.com/2265048/133388774-a8acf3a8-0159-4cd4-a1f1-ad032bea2867.png)
-7. 在游戏内右下角的服务器选择中选“Ansa”![image](https://user-images.githubusercontent.com/2265048/133389277-2ad16b65-80bd-45c3-83cf-1dd63a9674a2.png)
+6. 开始游戏，选择在线    
+    ![image](https://user-images.githubusercontent.com/2265048/133388774-a8acf3a8-0159-4cd4-a1f1-ad032bea2867.png)
+7. 在游戏内右下角的服务器选择中选“Ansa”    
+    ![image](https://user-images.githubusercontent.com/2265048/133389277-2ad16b65-80bd-45c3-83cf-1dd63a9674a2.png)
 8. 点击创建游戏并确定，检查是否连接成功（成功后直接退出房间就好）
 
 ### 在Mac或手机上玩：
